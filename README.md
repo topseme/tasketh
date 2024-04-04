@@ -10,7 +10,7 @@
 tasketh is a simple bot that lets users claim tasks. As of now, tasketh specialises only in task claiming but there's lots on the way!
 
 ## Process
-- After the bot is invited to a server, the task and report embedding channels must be set using the required commands `!taskchannel` and `!reportchannel`.
+- After the bot iss invited to a server, the task and report embedding channels must be set using the required commands `!taskchannel` and `!reportchannel`.
 - When a task is announced using the `!task` command, it sends an embed specifying details of the task, number of people required for the task and more.
 - Users who want to claim the task will do so by reacting to the embed.
 - Once the task has been claimed by the specified number of people, the claiming closes.
